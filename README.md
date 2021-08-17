@@ -1,6 +1,6 @@
 
 
-# Simulation-of-traffic-signals
+# Simulation-of-traffic-signals using OpenGL
 Gives us a graphic representation of how traffic signals work using OpenGL simulation.
 ---- OpenGL
 ---- 
